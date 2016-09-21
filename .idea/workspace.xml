@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="436ce602-9b87-4ff0-819e-a845499f5075" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/c2c_logo.png" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/c2c_logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/oerpscenario_dump_magento_1.5.sql.zip" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/oerpscenario_dump_magento_1.5.sql.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/oerpscenario_dump_prestashop_1.4.6.2.sql.zip" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/oerpscenario_dump_prestashop_1.4.6.2.sql.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/logo.png" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/.bzrignore" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/.bzrignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/.gitignore" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/.project" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/.project" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/LICENSE" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/README.md" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/Readme.rst" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/Readme.rst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/ReleaseNotes.md" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/ReleaseNotes.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/Plan_analytique_testing.csv" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/Plan_analytique_testing.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/canevas_import_ecriture_v70.csv" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/canevas_import_ecriture_v70.csv" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/data/readme.txt" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/data/readme.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/00_initial_params.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/00_initial_params.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/01_chart_of_account_basic.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/01_chart_of_account_basic.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/02_financial_journals.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/02_financial_journals.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/03_taxes.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/03_taxes.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/04_partners.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/04_partners.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/05_products.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/01_base_finance_setup/05_products.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/00_initial_params.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/00_initial_params.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/01_chart_of_account_basic.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/01_chart_of_account_basic.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/02_products.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/02_products.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/03_PO.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/03_PO.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/04_SO.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/02_anglosaxon_accounting/04_SO.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/03_commercial_management_data_population/08_PO.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/03_commercial_management_data_population/08_PO.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/03_commercial_management_data_population/09_SO.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/03_commercial_management_data_population/09_SO.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x00_initial_params.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x00_initial_params.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x01_l10n_install.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x01_l10n_install.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x02_analytic.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x02_analytic.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x03_companies.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x03_companies.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x04_bank_accounts.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x04_bank_accounts.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x05_financial_journals.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x05_financial_journals.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x06_groups_settings.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x06_groups_settings.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x07_security_settings.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x07_security_settings.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x08_users.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x08_users.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x09_partners.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x09_partners.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x10_products.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/04_multicompany_base_finance_setup/x10_products.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/environment.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/environment.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/_pre.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/_pre.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/account_bank_statement.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/account_bank_statement.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/init_account.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/init_account.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/invoice.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/invoice.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/wizard/pay_invoice.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/account/wizard/pay_invoice.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base/base.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base/base.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base/init_base.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base/init_base.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_module_quality/base_module_quality.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_module_quality/base_module_quality.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_sale_multichannels/payment_types.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_sale_multichannels/payment_types.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_sale_multichannels/payment_types_advanced.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/base_sale_multichannels/payment_types_advanced.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/document/document_sample.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/document/document_sample.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/l10n_ch/init_l10n_ch.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/l10n_ch/init_l10n_ch.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/magentoerpconnect/init_magento.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/magentoerpconnect/init_magento.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/magentoerpconnect/test_magento.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/magentoerpconnect/test_magento.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/mail/sample_mail.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/mail/sample_mail.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/prestashoperpconnect/init_prestashop.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/prestashoperpconnect/init_prestashop.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/prestashoperpconnect/test_prestashop.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/prestashoperpconnect/test_prestashop.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/product/product_sample.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/product/product_sample.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/purchase/init_purchase.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/purchase/init_purchase.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/_pre.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/_pre.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/init_sale.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/init_sale.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/sale.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/sale/sale.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/stock/sample_stock.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/oerp_addons/stock/sample_stock.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/samples/dsl_samples.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/samples/dsl_samples.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/samples/samples.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/samples/samples.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/demo_data.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/demo_data.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/install_database.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/install_database.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/setup_sample.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/setup/setup_sample.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_config.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_invoice.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_invoice.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_reconciliation.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/account_reconciliation.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/bank_config.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/bank_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/company_config.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/company_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/database_mgmt.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/database_mgmt.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/demo_data.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/demo_data.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/deprecated_phrases.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/deprecated_phrases.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/dsl.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/dsl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/dsl_helpers.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/dsl_helpers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/module_config.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/module_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/purchase_order.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/purchase_order.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/sale_order.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/sale_order.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/tools.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/tools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/user_config.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/steps/user_config.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/__init__.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/__init__.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/behave_better.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/behave_better.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/compile.feature" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/compile.feature" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/tools.py" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/features/support/tools.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/requires.txt" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/requires.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/rml_header.txt" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/rml_header.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scenario/OERPScenario/sample_base.conf" afterPath="$PROJECT_DIR$/Scenario/OERPScenario/sample_base.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/parts/server/addons/web/views/webclient_templates.xml" afterPath="$PROJECT_DIR$/parts/server/addons/web/views/webclient_templates.xml" />
+    </list>
+    <ignored path="teste_odoo_2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="teste_odoo_2">
+      <favorite_root url="file://$PROJECT_DIR$/buildout.dev.cfg" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+    <favorites_list name="view como powered by odoo">
+      <favorite_root url="file://$PROJECT_DIR$/parts/server/addons/web/views/webclient_templates.xml" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="buildout.cfg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/buildout.cfg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/Scenario/OERPScenario" value="feature/commercial_group" />
+        <entry key="$PROJECT_DIR$/odoo-brazil-buildout" value="feature/commercial_group" />
+        <entry key="$PROJECT_DIR$/parts/l10n_br/odoo-brazil-addons" value="8.0" />
+        <entry key="$PROJECT_DIR$/src/PySPED" value="feature/commercial_group" />
+        <entry key="$PROJECT_DIR$/src/geraldo" value="feature/commercial_group" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account/__openerp__.py" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_service/__openerp__.py" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_product/__openerp__.py" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_sale_stock/__openerp__.py" />
+        <option value="$PROJECT_DIR$/dev.cfg" />
+        <option value="$PROJECT_DIR$/prod.cfg" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/buildout-dev.cfg" />
+        <option value="$PROJECT_DIR$/buildout-prod.cfg" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_account/models/account.py" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_base/models/res_company.py" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_crm/views/crm_lead_view.xml" />
+        <option value="$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_crm/views/crm_opportunity_view.xml" />
+        <option value="$PROJECT_DIR$/parts/server/addons/web/views/webclient_templates.xml" />
+        <option value="$PROJECT_DIR$/odoo-brazil-buildout/default.cfg" />
+        <option value="$PROJECT_DIR$/buildout.cfg" />
+        <option value="$PROJECT_DIR$/etc/odoo.cfg" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1602" />
+    <option name="height" value="875" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyInconsistentIndentationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="JTree">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l10n_br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ColorIdeProjectViewPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l10n_br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="odoo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="parts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l10n_br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="l10n-brazil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/parts/server" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="odoo" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="odoo" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/parts/l10n_br/account-fiscal-rule" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start_odoo">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="teste_odoo_2" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="start_odoo" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/bin/python2.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="odoo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bin/start_odoo" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.start_odoo" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="436ce602-9b87-4ff0-819e-a845499f5075" name="Default" comment="" />
+      <created>1473448252982</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1473448252982</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Utilizando repositorio da OCA para a localização e PySPED com repositorio da Odoo Brazil">
+      <created>1473882221271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1473882221271</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Utilizando repositorios com ssh">
+      <created>1474464276235</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1474464276236</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1602" height="875" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16613823" sideWeight="0.49536425" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32625994" sideWeight="0.50570345" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.49505705" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32891247" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24984147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32625994" sideWeight="0.49581748" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16613823" sideWeight="0.50463575" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32625994" sideWeight="0.49429658" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39920425" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="BEK_SORT_TYPE" value="1" />
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Utilizando repositorio da OCA para a localização e PySPED com repositorio da Odoo Brazil" />
+    <MESSAGE value="Utilizando repositorios com ssh" />
+    <option name="LAST_COMMIT_MESSAGE" value="Utilizando repositorios com ssh" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_product/data/l10n_br_account_product.ipi_guideline.csv" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_product/data/l10n_br_account_product.icms_relief.csv" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_product/data/account.product.fiscal.classification.template.csv" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_service/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="48" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_account/models/l10n_br_account.py" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_data_account_product/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_sale_stock/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="54" selection-start-line="15" selection-start-column="54" selection-end-line="15" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents/nfe/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents/nfe/models/l10n_br_account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-972">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/README.md" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents/configure_locale.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/oca_dependencies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/develop-eggs/Geraldo.egg-link">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/oca/server-tools/scheduler_error_mailer/ir_cron.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/oca/server-tools/README.md" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/oca/server-tools/shell/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/upgrade.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-freeze.cfg" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/account-fiscal-rule/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_account/account.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildout.dev.cfg" />
+    <entry file="file://$PROJECT_DIR$/parts/server/openerp/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="265" column="0" selection-start-line="265" selection-start-column="0" selection-end-line="265" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-brazil-buildout/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-622">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildout-prod.cfg" />
+    <entry file="file://$PROJECT_DIR$/buildout-dev.cfg" />
+    <entry file="file://$PROJECT_DIR$/.installed.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_account/models/account.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_base/models/res_company.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2322">
+          <caret line="129" column="0" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/supervisord.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_crm/views/crm_lead_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/l10n-brazil/l10n_br_crm/views/crm_opportunity_view.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/others/website_ecommerce/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/trust-themes/theme_alb/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/trust-themes/theme_coming_product/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/trust-themes/theme_hort/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/trust-themes/theme_trustcode/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/trust-themes/website_less/__openerp__.py" />
+    <entry file="file://$PROJECT_DIR$/parts/server/addons/web/views/webclient_templates.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="173" column="16" selection-start-line="173" selection-start-column="16" selection-end-line="173" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/others/editable_theme/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo-brazil-buildout/default.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/etc/odoo.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-450">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/others/openworx_backend_theme/__openerp__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/others/openworx_backend_theme/views.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parts/l10n_br/odoo-brazil-addons/l10n_br_fci/models/l10n_br_fci.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildout.cfg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="59" column="8" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
