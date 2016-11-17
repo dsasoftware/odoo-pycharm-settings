@@ -1,0 +1,12 @@
+colors/
+disabled_plugins.txt
+disabled_update.txt
+fileTemplates/
+inspection/
+keymaps/
+options/
+plugins/
+port
+port.lock
+tasks/
+templates/
