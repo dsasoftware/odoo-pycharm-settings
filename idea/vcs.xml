@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Scenario/OERPScenario" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/odoo-brazil-buildout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/l10n_br/account-fiscal-rule" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/l10n_br/l10n-brazil" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/l10n_br/odoo-brazil-addons" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/l10n_br/odoo-brazil-eletronic-documents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/oca/server-tools" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/parts/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/PySPED" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/geraldo" vcs="Git" />
+  </component>
+</project>
